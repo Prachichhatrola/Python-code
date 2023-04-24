@@ -1,4 +1,4 @@
-marks=[45, 78, 86, 77]:
+marks=[45, 78, 86, 77]
 percentage1= (sum(marks)/400)*100
 
 marks2=[75, 98, 88, 78]
